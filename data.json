@@ -1,0 +1,102 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "1 Gelas",
+            "harga": "20K",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://assets.mystarbucks.com.au/imagecache/bestfit/620x634/_files/Beverages/sbx20190607-32079-icedcaffeamericano-ongreen-corelib-srgb.jpg",
+            "nama": "Ice Americano Arabica",
+            "size": "1 Gelas",
+            "harga": "15K",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "1 Gelas",
+            "harga": "20K",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu Robusta",
+            "size": "1 Gelas",
+            "harga": "15K",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "1 Gelas",
+            "harga": "20K",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://images.tokopedia.net/img/KRMmCm/2023/3/30/b40741a7-5e39-4eca-b0d4-474c10aa3618.jpg",
+            "nama": "Es Buah",
+            "size": "1 Mangkok",
+            "harga": "15K",
+            "link": "https://www.google.com/search?q=es+buah&sa=X&sca_esv=567212709&bih=646&biw=1272&hl=id&tbm=shop&sxsrf=AM9HkKn06rNc3x3A8Wa9AYnIprP84EBb7Q%3A1695289199370&ei=bw8MZefiFf3AjuMP0vKLuA8&oq=es+buah&gs_lp=Egtwcm9kdWN0cy1jYyIHZXMgYnVhaCoCCAAyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESMgZUM8DWOIOcAB4AJABAJgBa6AB2wKqAQM0LjG4AQHIAQD4AQHCAgoQABgNGIAEGLADwgIEECMYJ8ICBxAAGA0YgASIBgGQBgo&sclient=products-cc"
+        },
+        {
+            "foto": "http://www.kaleyo.com/img/news/WhatsApp_Image_2021-06-25_at_09_32_37_(1).jpg",
+            "nama": "Es Fanta Susu",
+            "size": "1 Gelas",
+            "harga": "10K",
+            "link": "https://www.google.com/search?q=es+fanta+susu&sa=X&sca_esv=567212709&bih=646&biw=1272&hl=id&tbm=shop&sxsrf=AM9HkKmG5JnDWaIAyYhYgO5hktpe4iChCw%3A1695289134050&ei=Lg8MZbmlArGr4-EPi4eQ0AY&ved=0ahUKEwi59ICVtLuBAxWx1TgGHYsDBGoQ4dUDCAg&uact=5&oq=es+fanta+susu&gs_lp=Egtwcm9kdWN0cy1jYyINZXMgZmFudGEgc3VzdUi1A1AAWABwAHgAkAEAmAGAAqABgAKqAQMyLTG4AQPIAQD4AQGIBgE&sclient=products-cc"
+        },
+        {
+            "foto": "https://cdn.pnghd.pics/data/268/gambar-aqua-botol-0.jpg",
+            "nama": "Air Mineral",
+            "size": "1 Botol",
+            "harga": "5K",
+            "link": "https://www.google.com/search?q=aqua+botol+sedang&source=lmns&tbm=shop&bih=614&biw=1272&hl=id&sa=X&ved=2ahUKEwiVgNW0wLuBAxVlwKACHYJpAo8Q0pQJKAF6BAgBEAQ"
+        },
+        {
+            "foto": "https://cdn.idntimes.com/content-images/community/2018/05/ice-monster-food-hack1-4c19e5f7daaf32e2abd90cd6ef7de0cb_600x400.jpg",
+            "nama": "Es Serut Mangga",
+            "size": "1 Botol",
+            "harga": "15K",
+            "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.idntimes.com%2Fcontent-images%2Fcommunity%2F2018%2F05%2Fice-monster-food-hack1-4c19e5f7daaf32e2abd90cd6ef7de0cb_600x400.jpg&tbnid=xHOiSaju7BMjxM&vet=12ahUKEwiVtMfbwbuBAxXEa2wGHQiSDz8QMygBegQIARBN..i&imgrefurl=https%3A%2F%2Fwww.idntimes.com%2Ffood%2Frecipe%2Fagung-setya-1%2Fberbuka-dengan-yang-segar-yuk-bikin-es-mangga-serut-khas-taiwan-c1c2&docid=UWRtMSwi4H7xCM&w=600&h=400&q=Es%20serut%20mangga&hl=id&ved=2ahUKEwiVtMfbwbuBAxXEa2wGHQiSDz8QMygBegQIARBN"
+        }
+    ],
+    "makanan": [
+        {
+            "foto": "https://cdn.idntimes.com/content-images/community/2019/10/foodnify-com-13fece80c986a4fcf30faea8f48cdbdd.jpg",
+            "nama": "Kentang Goreng",
+            "size": "-",
+            "harga": "10K",
+            "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.idntimes.com%2Fcontent-images%2Fcommunity%2F2019%2F10%2Ffoodnify-com-13fece80c986a4fcf30faea8f48cdbdd.jpg&tbnid=uk_Z7dKr5JFUmM&vet=12ahUKEwirk4nVxLuBAxXsmmMGHfo6B9MQMygPegQIARBo..i&imgrefurl=https%3A%2F%2Fwww.idntimes.com%2Flife%2Feducation%2Fjsari%2Fkata-british-dan-american-c1c2&docid=PpZ7LhnvQoAf1M&w=620&h=348&q=kentang%20goreng%20bahasa%20inggris&ved=2ahUKEwirk4nVxLuBAxXsmmMGHfo6B9MQMygPegQIARBo"
+        },
+        {
+            "foto": "https://cdn1-production-images-kly.akamaized.net/h0fr49hHUN_nalir9RhV8dN3ai8=/640x640/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3535886/original/062497100_1628523130-IG_resepmasakanrumah__.jpg",
+            "nama": "Cireng",
+            "size": "-",
+            "harga": "10K",
+            "link": "https://www.liputan6.com/hot/read/4628202/20-cara-buat-cireng-crispy-sederhana-gurihnya-nagih"
+        },
+        {
+            "foto": "https://asset.kompas.com/crops/zdIcbEgetC4Ff2VErZf91rIOd2c=/0x0:780x520/750x500/data/photo/2023/05/19/64673993d92bc.jpg",
+            "nama": "Sosis",
+            "size": "-",
+            "harga": "10K",
+            "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fasset.kompas.com%2Fcrops%2FzdIcbEgetC4Ff2VErZf91rIOd2c%3D%2F0x0%3A780x520%2F750x500%2Fdata%2Fphoto%2F2023%2F05%2F19%2F64673993d92bc.jpg&tbnid=FMuHkA3EbGLz_M&vet=12ahUKEwiBj5jZxbuBAxVMmmMGHZ6oB1UQMyg1egUIARDUAQ..i&imgrefurl=https%3A%2F%2Fumkm.kompas.com%2Fread%2F2023%2F09%2F15%2F190000083%2F5-cara-mudah-memulai-usaha-sosis-bakar&docid=pWar7_L5rjxTTM&w=750&h=500&itg=1&q=Sosis%20%20cafe&ved=2ahUKEwiBj5jZxbuBAxVMmmMGHZ6oB1UQMyg1egUIARDUAQ"
+        },
+        {
+            "foto": "https://storage.googleapis.com/bakingworld-web-production/uploads/media/content_banner/banner-cp-1666083149736.jpg",
+            "nama": "Cupcake",
+            "size": "-",
+            "harga": "10K",
+            "link": "https://media.bakingworld.id/jurnal/rekomendasi-cupcake-imut-dan-enak-di-jakarta"
+        }
+    ]
+
+}
